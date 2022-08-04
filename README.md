@@ -59,7 +59,7 @@
 <h3> Python for Everybody </h3>
 <p align="center">
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).pdf">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).pdf" width="300px" />
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).jpg" width="300px" />
   </a>
   <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg">
     <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg" width="300px" />
