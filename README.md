@@ -3,9 +3,9 @@
 <h3 align="center">A fresher ??? from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prolan9414" alt="prolan9414" /></p>
 
-- ✍ I'm a student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
+- ✍ I'm a student of [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
 
-- 🌱 I’m currently learning *???*
+- 🌱 I’m currently learning *Information Assurance*
 
 
 ## 📫 How to reach me:
@@ -44,8 +44,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TQToan&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="TQToan" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=TQToan&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TQToan" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TQToan&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="prolan9414" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=TQToan&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="prolan9414" width="100%"/>
     </td>
     <td>
       <p align="center">
@@ -56,9 +56,9 @@
 </table>
 
 # Certificates:
-<h3> Web Design For Everyone </h3>
+<h3> Python for Everybody </h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE.jpeg">
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).pdf">
     <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE.jpeg" width="300px" />
   </a>
   <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg">
