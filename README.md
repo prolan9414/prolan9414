@@ -13,48 +13,32 @@
 [![Join the chat at https://gitter.im/prolan9414/Github-Profile-Tutorial](https://badges.gitter.im/prolan9414/Github-Profile-Tutorial.svg)](https://gitter.im/prolan9414/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="???" alt="Facebook">
+  <a href="https://www.facebook.com/nam.nguyengiang.583/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
+  </a>
   <a href="https://github.com/prolan9414" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:???" alt="Email">
+  </a>
+  <a href="mailto:namngse161942@fpt.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
 
 ## Skills:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/2x/tomcat.png" width="48" height="48" />
-  <img src="https://img.icons8.com/color/344/jira.png" width="48" height="48" />
+
   <img src="https://img.icons8.com/glyph-neue/2x/github.png" width="48" height="48" />
-  <img src="https://img.icons8.com/color/344/c-sharp-logo.png" width="48" height="48" />
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> 
+
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> 
+
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="48" height="48"/> 
-  </a>
+
 </p>
 
 <table style="width:100%;">
@@ -64,7 +48,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=TQToan&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TQToan" width="100%"/>
     </td>
     <td>
-      <p align="center"> 
+      <p align="center">
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
