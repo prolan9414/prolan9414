@@ -57,6 +57,13 @@
 
 # Certificates:
 
+<h3> FPTU Hacking CTF 2022 Competition </h3>
+<p align="center">
+  <a href="https://github.com/prolan9414/Certification/blob/main/FPTU/FPTU%20Hacking%20CTF%202022%20Competition.pdf">
+    <img alt="FPTU Hacking CTF 2022 Competition" title="FPTU Hacking CTF 2022 Competition" src="https://github.com/prolan9414/Certification_Image/blob/main/FPTU/FPTU%20Hacking%20CTF%202022%20Competition.jpg" width="300px" />
+  </a> 
+</p>
+
 <h3> Python for Everybody </h3>
 <p align="center">
   <!-- Python for Everybody -->
