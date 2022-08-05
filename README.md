@@ -57,24 +57,35 @@
 
 # Certificates:
 <h3> Python for Everybody </h3>
+
 <p align="center">
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).pdf">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).jpg" width="300px" />
+    <img alt="Python for Everybody" title="Python for Everybody" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg" width="300px" />
+  
+  <!-- capstone retrieving -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.pdf">
+    <img alt="Capstone Retrieving, Processing, and Visualizing Data with Python" title="Capstone Retrieving, Processing, and Visualizing Data with Python" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.jpg" width="300px" />
+  </a>  
+  
+  <!-- Programming for Everybody (Getting Started with Python) -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf">
+    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).jpg" width="300px" />
+  </a> 
+  
+  <!-- Python Data Structures -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Python%20Data%20Structures.pdf">
+    <img alt="Python Data Structures" title="Python Data Structures" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Python%20Data%20Structures.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_2.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_2.jpeg" width="300px" />
+  
+  <!-- Using Databases with Python -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Using%20Databases%20with%20Python.pdf">
+    <img alt="Using Databases with Python" title="Using Databases with Python" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Using%20Databases%20with%20Python.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_3.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_3.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_4.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_4.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_5.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_5.jpeg" width="300px" />
+  
+  <!-- Using Python to Access Web Data -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Using%20Python%20to%20Access%20Web%20Data.pdf">
+    <img alt="Using Python to Access Web Data" title="Using Python to Access Web Data" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Using%20Python%20to%20Access%20Web%20Data.jpg" width="300px" />
   </a>
 </p>
 <h3> Software Development Lifecycle </h3>
