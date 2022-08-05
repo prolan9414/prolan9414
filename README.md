@@ -56,70 +56,113 @@
 </table>
 
 # Certificates:
-<h3> Python for Everybody </h3>
 
+<h3> Python for Everybody </h3>
 <p align="center">
+  <!-- Python for Everybody -->
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).pdf">
     <img alt="Python for Everybody" title="Python for Everybody" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody%20(Final).jpg" width="300px" />
-  </a>
-  
-  <!-- capstone retrieving -->
+  </a> 
+  <!-- Capstone Retrieving, Processing, and Visualizing Data with Python -->
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.pdf">
     <img alt="Capstone Retrieving, Processing, and Visualizing Data with Python" title="Capstone Retrieving, Processing, and Visualizing Data with Python" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python.jpg" width="300px" />
   </a>  
-  
   <!-- Programming for Everybody (Getting Started with Python) -->
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf">
     <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).jpg" width="300px" />
   </a> 
-  
   <!-- Python Data Structures -->
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Python%20Data%20Structures.pdf">
     <img alt="Python Data Structures" title="Python Data Structures" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Python%20Data%20Structures.jpg" width="300px" />
   </a>
-  
   <!-- Using Databases with Python -->
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Using%20Databases%20with%20Python.pdf">
     <img alt="Using Databases with Python" title="Using Databases with Python" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Using%20Databases%20with%20Python.jpg" width="300px" />
   </a>
-  
   <!-- Using Python to Access Web Data -->
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Python%20for%20Everybody/Using%20Python%20to%20Access%20Web%20Data.pdf">
     <img alt="Using Python to Access Web Data" title="Using Python to Access Web Data" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Python%20for%20Everybody/Using%20Python%20to%20Access%20Web%20Data.jpg" width="300px" />
   </a>
 </p>
-<h3> Software Development Lifecycle </h3>
+
+
+<h3> Applied Cryptography </h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE.jpeg" width="300px" />
+  <!-- Applied Cryptography -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Applied%20Crytography/Applied%20Cryptography%20(Final).pdf">
+    <img alt="Applied Cryptography" title="Applied Cryptography" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Applied%20Crytography/Applied%20Cryptography%20(Final).jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_1.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_1.jpeg" width="300px" />
+  <!-- Asymmetric Cryptography and Key Management -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Applied%20Crytography/Asymmetric%20Cryptography%20and%20Key%20Management.pdf">
+    <img alt="Asymmetric Cryptography and Key Management" title="Asymmetric Cryptography and Key Management" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Applied%20Crytography/Asymmetric%20Cryptography%20and%20Key%20Management.jpg" width="300px" />
+  </a>  
+  <!-- Cryptographic Hash and Integrity Protection -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Applied%20Crytography/Cryptographic%20Hash%20and%20Integrity%20Protection.pdf">
+    <img alt="Cryptographic Hash and Integrity Protection" title="Cryptographic Hash and Integrity Protection" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Applied%20Crytography/Cryptographic%20Hash%20and%20Integrity%20Protection.jpg" width="300px" />
+  </a>  
+  <!-- Cryptography and Information Theory -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Applied%20Crytography/Cryptography%20and%20Information%20Theory.pdf">
+    <img alt="Cryptography and Information Theory" title="Cryptography and Information Theory" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Applied%20Crytography/Cryptography%20and%20Information%20Theory.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_2.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_2.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_3.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_3.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_4.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_4.jpeg" width="300px" />
+  <!-- Symmetric Cryptography -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Applied%20Crytography/Symmetric%20Cryptography.pdf">
+    <img alt="Symmetric Cryptography" title="Symmetric Cryptography" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Applied%20Crytography/Symmetric%20Cryptography.jpg" width="300px" />
   </a>
 </p>
-<h3> Computer Communication </h3>
-<p align="center">
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE.jpeg" width="300px" />
+
+
+<h3> CertNexus Certified Ethical Emerging Technologist </h3>
+<p align="center">  
+  <!-- CertNexus Certified Ethical Emerging Technologist -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/CertNexus%20Certified%20Ethical%20Emerging%20Technologist%20(Final).pdf">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/CertNexus%20Certified%20Ethical%20Emerging%20Technologist%20(Final).jpg" width="300px" />
+  </a>  
+  <!-- Communicate Effectively about Ethical Challenges in Data-Driven Technologies -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Communicate%20Effectively%20about%20Ethical%20Challenges%20in%20Data-Driven%20Technologies.pdf">
+    <img alt="Communicate Effectively about Ethical Challenges in Data-Driven Technologies" title="Communicate Effectively about Ethical Challenges in Data-Driven Technologies" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Communicate%20Effectively%20about%20Ethical%20Challenges%20in%20Data-Dri.jpg" width="300px" />
+  </a> 
+  <!-- Create and Lead an Ethical Data-Driven Organization -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Create%20and%20Lead%20an%20Ethical%20Data-Driven%20Organization.pdf">
+    <img alt="Create and Lead an Ethical Data-Driven Organization" title="Create and Lead an Ethical Data-Driven Organization" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Create%20and%20Lead%20an%20Ethical%20Data-Driven%20Organization.jpg" width="300px" />
+  </a>  
+  <!-- Detect and Mitigate Ethical Risks -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks.pdf">
+    <img alt="Detect and Mitigate Ethical Risks" title="Detect and Mitigate Ethical Risks" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks.jpg" width="300px" />
   </a>
-<a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg">
+  <!-- Preparing for Your CertNexus Certification Exam -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Preparing%20for%20Your%20CertNexus%20Certification%20Exam.pdf">
+    <img alt="Preparing for Your CertNexus Certification Exam" title="Preparing for Your CertNexus Certification Exam" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Preparing%20for%20Your%20CertNexus%20Certification%20Exam.jpg" width="300px" />
+  </a>    
+  <!-- Promote the Ethical Use of Data-Driven Technologies -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Promote%20the%20Ethical%20Use%20of%20Data-Driven%20Technologies.pdf">
+    <img alt="Promote the Ethical Use of Data-Driven Technologies" title="Promote the Ethical Use of Data-Driven Technologies" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Promote%20the%20Ethical%20Use%20of%20Data-Driven%20Technologies.jpg" width="300px" />
+  </a>
+    
+  <!-- Turn Ethical Frameworks into Actionable Steps -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Turn%20Ethical%20Frameworks%20into%20Actionable%20Steps.pdf">
+    <img alt="Turn Ethical Frameworks into Actionable Steps" title="Turn Ethical Frameworks into Actionable Steps" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Turn%20Ethical%20Frameworks%20into%20Actionable%20Steps.jpg" width="300px" />
+  </a>
+</p>
+
+<h3> Academic Skills for University Success </h3>
+<p align="center"> 
+  <!-- Academic Skills for University Success -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success(Final).pdf">
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success(Final).jpg" width="300px" />
+  </a>  
+  <!-- Symmetric Cryptography -->
+  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg">
     <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg" width="300px" />
   </a>
+  <!-- Symmetric Cryptography -->
   <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg">
     <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg" width="300px" />
-  </a>
+  </a>  
+  <!-- Symmetric Cryptography -->
   <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg">
     <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg" width="300px" />
-  </a>
+  </a>  
+  <!-- Symmetric Cryptography -->
   <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg">
     <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg" width="300px" />
   </a>
