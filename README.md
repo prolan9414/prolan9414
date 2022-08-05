@@ -150,40 +150,71 @@
   <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success(Final).pdf">
     <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success(Final).jpg" width="300px" />
   </a>  
-  <!-- Symmetric Cryptography -->
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg" width="300px" />
+  <!-- Academic Skills for University Success Capstone -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.pdf">
+    <img alt="Academic Skills for University Success Capstone" title="Academic Skills for University Success Capstone" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpg" width="300px" />
   </a>
-  <!-- Symmetric Cryptography -->
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg" width="300px" />
+  <!-- Communication Skills for University Success -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Communication%20Skills%20for%20University%20Success.pdf">
+    <img alt="Communication Skills for University Success" title="Communication Skills for University Success" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Communication%20Skills%20for%20University%20Success.jpg" width="300px" />
   </a>  
-  <!-- Symmetric Cryptography -->
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg" width="300px" />
+  <!-- Critical Thinking Skills for University Success -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Critical%20Thinking%20Skills%20for%20University%20Success.pdf">
+    <img alt="Critical Thinking Skills for University Success" title="Critical Thinking Skills for University Success" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Critical%20Thinking%20Skills%20for%20University%20Success.jpg" width="300px" />
   </a>  
-  <!-- Symmetric Cryptography -->
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg" width="300px" />
+  <!-- Information & Digital Literacy for University -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Information%20%26%20Digital%20Literacy%20for%20University.pdf">
+    <img alt="Information & Digital Literacy for University" title="Information & Digital Literacy for University" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Information%20%26%20Digital%20Literacy%20for%20University.jpg" width="300px" />
+  </a>
+  <!-- Problem-Solving Skills for University Success -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Problem-Solving%20Skills%20for%20University%20Success.pdf">
+    <img alt="Problem-Solving Skills for University Success" title="Problem-Solving Skills for University Success" src="https://github.com/prolan9414/Certification_Image/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Problem-Solving%20Skills%20for%20University%20Success.jpg" width="300px" />
   </a>
 </p>
 
+<h3> CCNAv7: Introduction to Networks </h3>
+<p align="center"> 
+  <!-- CCNAv7: Introduction to Networks -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Cisco/NguyenGiang%20Nam-Computer%20Network-certificate.pdf">
+    <img alt="CCNAv7: Introduction to Networks" title="CCNAv7: Introduction to Networks" src="https://github.com/prolan9414/Certification_Image/blob/main/Cisco/CCNA_Intro.jpg" width="300px" />
+  </a>  
+</p>
+
+<h3> CyberOps Associate </h3>
+<p align="center"> 
+  <!-- CyberOps Associate -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Cisco/NguyenGiang%20Nam-CyberOps%20Associa-certificate.pdf">
+    <img alt="CyberOps Associate" title="CyberOps Associate" src="https://github.com/prolan9414/Certification_Image/blob/main/Cisco/CyberOps.jpg" width="300px" />
+  </a> 
+</p>
+
+<h3> CCSK v4.1 Foundation Trainin </h3>
+<p align="center">
+  <!-- CCSK v4.1 Foundation Training -->
+  <a href="https://github.com/prolan9414/Certification/blob/main/Cisco/NguyenGiang%20Nam-Learnathon2021_H-certificate.pdf">
+    <img alt="CCSK v4.1 Foundation Training" title="CCSK v4.1 Foundation Training" src="https://github.com/prolan9414/Certification_Image/blob/main/Cisco/CCSK.jpg" width="300px" />
+  </a>  
+</p>
+
 # Honors And Awards:
-<h3>SPRING 2021</h3>
+<h3>FPTU Honorable Student Of Semester</h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SPRING2021.jpg">
-    <img alt="SPRING 2021" title="SPRING 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SPRING2021.jpg" width="300px" />
+  <a href="https://github.com/prolan9414/Certification/blob/main/Letter%20of%20Merits/HONORABLE_STUDENT_OF_SEMESTER_FALL2021.pdf">
+    <img alt="FALL 2021" title="FALL 2021" src="https://github.com/prolan9414/Certification_Image/blob/main/Letter%20of%20Merits/HONORABLE_STUDENT_OF_SEMESTER_FALL2021.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/prolan9414/Certification/blob/main/Letter%20of%20Merits/HONORABLE_STUDENT_OF_SEMESTER_SPRING2021.pdf">
+    <img alt="SPRING 2021" title="SPRING 2021" src="https://github.com/prolan9414/Certification_Image/blob/main/Letter%20of%20Merits/HONORABLE_STUDENT_OF_SEMESTER_SPRING2021.jpg" width="300px" />
   </a>
 </p>
-<h3>SUMMER 2021</h3>
+
+<h3>Cisco Letter of Merit</h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SUMMER2021.jpg">
-    <img alt="SUMMER 2021" title="SUMMER 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SUMMER2021.jpg" width="300px" />
+  <a href="https://github.com/prolan9414/Certification/blob/main/Letter%20of%20Merits/NguyenGiang%20Nam-Computer%20Network-letter-of-merit.pdf">
+    <img alt="CCNAv7: Introduction to Networks" title="CCNAv7: Introduction to Networks" src="https://github.com/prolan9414/Certification_Image/blob/main/Letter%20of%20Merits/NguyenGiang%20Nam-Computer%20Network-letter-of-merit.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/prolan9414/Certification/blob/main/Letter%20of%20Merits/NguyenGiang%20Nam-CyberOps%20Associa-letter-of-merit.pdf">
+    <img alt="CyberOps Associate" title="CyberOps Associate" src="https://github.com/prolan9414/Certification_Image/blob/main/Letter%20of%20Merits/NguyenGiang%20Nam-CyberOps%20Associa-letter-of-merit.jpg" width="300px" />
   </a>
 </p>
-<h3>FALL 2021</h3>
-<p align="center">
-  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Excellent_FALL2021.jpg">
-    <img alt="FALL 2021" title="FALL 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Excellent_FALL2021.jpg" width="300px" />
-  </a>
+
 </p>
